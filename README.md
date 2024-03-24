@@ -33,7 +33,7 @@
 
 Clive is an innovative command line interface (CLI) tool designed to streamline the interaction between users and their Windows machines. By harnessing the capabilities of Gemini AI, Clive enables users to execute various system operations using simple natural language commands.
 
-# Overview
+## Overview
 
 Traditionally, interacting with a command line interface requires users to memorize and input complex commands, which can be daunting for beginners and time-consuming for experienced users. Clive simplifies this process by allowing users to communicate with their system using everyday language, making it more accessible and user-friendly.
 
