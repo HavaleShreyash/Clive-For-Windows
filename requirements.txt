@@ -1,0 +1,3 @@
+dotenv
+argparse
+google.generativeai
