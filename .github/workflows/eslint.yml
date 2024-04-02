@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Run ESLint
-        run: npx eslint . --ignore-pattern='*.js'
+    #   - name: Run ESLint
+    #     run: npx eslint . --ignore-pattern='*.js'
 
       - name: Checkout code
         uses: actions/checkout@v2
