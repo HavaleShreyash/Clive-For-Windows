@@ -2,6 +2,21 @@
 ## Clive On Windows
 ### CLI thats aliVE 
 
+![Clive For Windows](Assets/clive_logo_00.png)
+
+
+Clive is an innovative command line interface (CLI) tool designed to streamline the interaction between users and their Windows machines. By harnessing the capabilities of Gemini AI, Clive enables users to execute various system operations using simple natural language commands.
+
+## Overview
+
+Traditionally, interacting with a command line interface requires users to memorize and input complex commands, which can be daunting for beginners and time-consuming for experienced users. Clive simplifies this process by allowing users to communicate with their system using everyday language, making it more accessible and user-friendly.
+
+## Features
+
+- Interpret natural language commands
+- Generate corresponding command line commands
+- Execute command line commands on a Windows machine
+- Speech Input
 
 
                                     .-.      .-.
@@ -26,22 +41,11 @@
            /   \_ |     | |  | |  :  ||   [_ 
            \     ||     | |  |  \   / |     |
             \____||_____||____|  \_/  |_____|
+
                                   
-
-
-
-
-Clive is an innovative command line interface (CLI) tool designed to streamline the interaction between users and their Windows machines. By harnessing the capabilities of Gemini AI, Clive enables users to execute various system operations using simple natural language commands.
-
-## Overview
-
-Traditionally, interacting with a command line interface requires users to memorize and input complex commands, which can be daunting for beginners and time-consuming for experienced users. Clive simplifies this process by allowing users to communicate with their system using everyday language, making it more accessible and user-friendly.
-
-## Features
-
-- Interpret natural language commands
-- Generate corresponding command line commands
-- Execute command line commands on a Windows machine
+# Version:
+EXE file to directly run without much hassle 
+### [v0.1.4-Beta](https://github.com/HavaleShreyash/Clive-On-Windows/releases/tag/v0.1-Beta)
 
 ## Installation
 
@@ -66,19 +70,20 @@ Traditionally, interacting with a command line interface requires users to memor
         ```
         GEMINI_API_KEY=your_gemini_api_key_here
         ```
+    - OR run clv.py and you will be prompted to enter API
 
 ## Usage
 
-1. Run the `clive.py` script:
+1. Run the `clv.py` script:
 
     ```bash
-    python clive.py
+    python clv.py
     ```
 
 2. Enter a natural language command when prompted. For example:
 
     ```
-    Ask Clive (or 'ec2047' to quit): Make a new folder named 'project'
+    Ask Clive: Make a new folder named 'project'
     ```
 
 3. Clive will interpret the command, generate the corresponding command line command, and execute it on your system.
@@ -102,4 +107,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Gemini AI for providing powerful natural language processing capabilities.
-- Python community for creating useful libraries like `dotenv`, `argparse`, and `google.generativeai`.
+- Python community for creating useful libraries like `SpeechRecognition`, `dotenv`, and `google.generativeai`.
