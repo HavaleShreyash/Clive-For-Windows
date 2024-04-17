@@ -1,6 +1,5 @@
 
 ## Clive On Windows
-### CLI thats aliVE 
 
 ![Clive For Windows](Assets/clive_logo_00.png)
 
@@ -107,4 +106,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Gemini AI for providing powerful natural language processing capabilities.
-- Python community for creating useful libraries like `SpeechRecognition`, `dotenv`, and `google.generativeai`.
+- Python community for creating useful libraries like `SpeechRecognition`, and `google.generativeai`.
+
+# Support
+
+If you like the value I provide and want to support, consider buying me a coffee so that I can work more on my skills and produce more value added content 🙌
+<br><br>
+<a href="https://www.buymeacoffee.com/havaleshreyash"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
